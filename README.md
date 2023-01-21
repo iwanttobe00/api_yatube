@@ -15,7 +15,7 @@ api_yatube - это API социальной сети Yatube.
 git clone https://github.com/iwanttobe00/api_yatube.git
 ```
 ```sh
-cd api_final_yatube
+cd api_yatube
 ```
 Cоздать и активировать виртуальное окружение:
 ```sh
