@@ -12,7 +12,7 @@ api_yatube - это API социальной сети Yatube.
 ---
 Клонировать репозиторий и перейти в него в командной строке:
 ```sh
-git clone https://github.com/iwanttobe00/api_final_yatube.git
+git clone https://github.com/iwanttobe00/api_yatube.git
 ```
 ```sh
 cd api_final_yatube
